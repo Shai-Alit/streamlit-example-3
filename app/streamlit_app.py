@@ -12,6 +12,7 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 import plotly.express as px
+from viyapy import viya_utils
 from score_rf import score_rf_model
 
 
